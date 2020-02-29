@@ -14,6 +14,16 @@ You can download this asset from Unity Asset Store:
 [Air Warfare Pro](https://assetstore.unity.com/packages/templates/systems/air-warfare-pro-159371)
 or [Air Warfare Pro Template](https://assetstore.unity.com/packages/templates/systems/air-warfare-pro-template-153887)
 
+## Control
+
+<center>Control On PC:</center>
+
+![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/ControlOnPC.png)
+
+<center>Control On Mobile:</center>
+
+![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/ControlOnMobile.png)
+
 ## Online Documents:
 
 [Air Warfare Pro Manual](https://www.swordmaster.info/documents/unity-assets-documents/air-warfare-pro-manual-document/)

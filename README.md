@@ -30,40 +30,15 @@ or [Air Warfare Pro Template](https://assetstore.unity.com/packages/templates/sy
 
 [Air Warfare Pro Script Fields Introduction](https://www.swordmaster.info/documents/unity-assets-documents/air-warfare-pro-script-fields-introduction/)
 
-## Description:
-
-</BR>
-This template was developed based on 
-</BR>
-<a href=
-"https://assetstore.unity.com/packages/slug/154380">
-The Fighter Complete Template Pro
-</a> 
-and 
-<a href=
-"https://assetstore.unity.com/packages/slug/154370">
-The Fighter Complete Template
-</a> 
-</BR>
+## Features:
 
 </BR>
 In this template, it not only contains many different types of Player Fighters, but also includes 34 different types of AI Fighters
 </BR>
 
 <BR>
-It can help you create your own fighter game easily.
-</BR>
-
-<BR>
-<STRONG>
-Features:
-</STRONG>
-</BR>
-
-<BR>
 <STRONG> * </STRONG>
 The fighter can be controlled by the keyboard of the PC, and also can 
-
 be controlled by the D-pad and virtual buttons on the mobile device.
 </BR>
 

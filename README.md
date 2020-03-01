@@ -106,12 +106,19 @@ or [Air Warfare Pro Template](https://assetstore.unity.com/packages/templates/sy
 
  - The AI fighters can have three different patrol modes:
  
-   (1).Follow the route. 
-   (2).Fly freely in valid battle area. 
+   (1).Follow the route.
+   
+   (2).Fly freely in valid battle area.
+   
    (3).Fly freely around the AI Fighter Spawner. 
 
  - Include two big and beautiful environments,they are the Alps Mountain, and the Atacama Desert. 
+
+   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/Environment1.png)
+   
    Each environment is made up of nine terrain blocks,and these terrains are generated from map data exported by Bing Map.
+   
+   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/Environment2.png)
 
  - Detailed documentation
 

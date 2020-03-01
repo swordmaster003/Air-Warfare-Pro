@@ -39,8 +39,6 @@ or [Air Warfare Pro Template](https://assetstore.unity.com/packages/templates/sy
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/Player_Fighters_F35.png)
     
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/Player_Fighters_F18.png)
-  
-- The fighter can be controlled by the keyboard of the PC, and also can be controlled by the D-pad and virtual buttons on the mobile device.
 
 - The Fighter Flight System is designed according to the aerodynamics of modern fighter.
 
@@ -102,7 +100,9 @@ or [Air Warfare Pro Template](https://assetstore.unity.com/packages/templates/sy
   
    ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/Europe_AI_Fighters.png)
 
- - The AI fighters is spawned using AI Fighter Spawner
+ - The AI fighters is spawned using AI Fighter Spawner:
+ 
+   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/AISpawner.png)
 
  - The AI fighters can have three different patrol modes:
  

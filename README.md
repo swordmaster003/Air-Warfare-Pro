@@ -92,15 +92,11 @@ The Valid Battle Area Detect Syetem is attached to the Player Fighter,when playe
  - The AI fighters is spawned using AI Fighter Spawner
 
  - The AI fighters can have three different patrol modes:
- 
    (1).Follow the route.
-  
    (2).Fly freely in valid battle area.
-  
    (3).Fly freely around the AI Fighter Spawner.
 
- - Include two big and beautiful environments,they are the Alps Mountain, and the Atacama Desert.
- 
+ - Include two big and beautiful environments,they are the Alps Mountain, and the Atacama Desert. 
    Each environment is made up of nine terrain blocks,and these terrains are generated from map data exported by Bing Map.
 
  - Detailed documentation

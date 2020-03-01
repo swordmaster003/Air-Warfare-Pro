@@ -50,7 +50,7 @@ or [Air Warfare Pro Template](https://assetstore.unity.com/packages/templates/sy
 
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/SateliteMap.png)
   
-- The Fighter Machine Gun System has a maximum heat limit. When the maximum heat is exceeded, it will enter the cool down state . After the cooling is completed, the machine gun can be fired again.
+- The Fighter Machine Gun System has a maximum heat limit. When the maximum heat is exceeded, it will enter the cool down state. After the cooling is completed, the machine gun can be fired again.
 
 - The Fighter Missile System has two working modes:
 

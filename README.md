@@ -35,12 +35,15 @@ or [Air Warfare Pro Template](https://assetstore.unity.com/packages/templates/sy
 - In this template, it not only contains many different types of Player Fighters, but also includes 34 different types of AI Fighters.
 
   <center>F22 Fighters:</center>
+  
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/Player_Fighters_F22.png)
   
   <center>F35 Fighters:</center>
+  
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/Player_Fighters_F35.png)
   
   <center>F18 Fighters:</center>
+  
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/Player_Fighters_F18.png)
   
 - The fighter can be controlled by the keyboard of the PC, and also can be controlled by the D-pad and virtual buttons on the mobile device.
@@ -60,11 +63,17 @@ or [Air Warfare Pro Template](https://assetstore.unity.com/packages/templates/sy
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/SateliteMap.png)
   
 - The Fighter Machine Gun System has a maximum heat limit. When the maximum heat is exceeded, it will enter the cool down state. 
+
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/MachineGun2.png)
+  
   After the cooling is completed, the machine gun can be fired again.
+  
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/MachineGun1.png)
+  
 - The Fighter Missile System has two working modes:
+
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/MissileLocked.png)
+  
   (1).One mode is called Single-Target mode,which means only one attack target can be locked at once and the missile you will launch is called the general missle(this missile is a short range missile). 
 
   ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/AimSingle.png)
@@ -101,7 +110,7 @@ or [Air Warfare Pro Template](https://assetstore.unity.com/packages/templates/sy
 
   (3).The Europe AI Fighters:
   
-  <center> Typhoon, Rafale_C, Rafale_M, Mirage2000, Mirage200_C, Mirage2000_C, Mirage2000_N, Mirage_III, Mirage_V, Saab39, Jaguar</center>
+  <center> Typhoon, Rafale_C, Rafale_M, Mirage2000, Mirage200_C, Mirage2000_N, Mirage_III, Mirage_V, Saab39, Jaguar</center>
   
    ![image](https://github.com/swordmaster003/Air-Warfare-Pro/blob/master/Screenshots/Europe_AI_Fighters.png)
 

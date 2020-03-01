@@ -64,27 +64,27 @@ The Valid Battle Area Detect Syetem is attached to the Player Fighter,when playe
 
 - The types of AI fighters in three countries：
 
-  (1).The USA AI Fighters:
+  *(1).The USA AI Fighters:*
   
-   F2, F4_E, F4G, F5_A, F5_E, F14_A, F14_B, F15_A, F15_E, F15_PE F16_A, F16_C, F18_C, F18_E, F18_H, F20
+   ***F2, F4_E, F4G, F5_A, F5_E, F14_A, F14_B, F15_A, F15_E, F15_PE F16_A, F16_C, F18_C, F18_E, F18_H, F20***
 
-  (2).The Russia AI Fighters:
+  *(2).The Russia AI Fighters:*
   
-   Mig29, Mig33, Mig_MFI, Su27, Su32, Su34, Su35, Su37
+   ***Mig29, Mig33, Mig_MFI, Su27, Su32, Su34, Su35, Su37 ***
 
-  (3).The Europe AI Fighters:
+  *(3).The Europe AI Fighters:*
   
-  Typhoon, Rafale_C, Rafale_M, Mirage2000, Mirage200_C, Mirage2000_C, Mirage2000_N, Mirage_III, Mirage_V, Saab39, Jaguar
+   ***Typhoon, Rafale_C, Rafale_M, Mirage2000, Mirage200_C, Mirage2000_C, Mirage2000_N, Mirage_III, Mirage_V, Saab39, Jaguar***
 
  - The AI fighters is spawned using AI Fighter Spawner
 
  - The AI fighters can have three different patrol modes:
  
-  (1).Follow the route.
+   *(1).Follow the route.*
   
-  (2).Fly freely in valid battle area.
+   *(2).Fly freely in valid battle area.*
   
-  (3).Fly freely around the AI Fighter Spawner.
+   *(3).Fly freely around the AI Fighter Spawner.*
 
  - Include two big and beautiful environments,they are the Alps Mountain, and the Atacama Desert.
  
